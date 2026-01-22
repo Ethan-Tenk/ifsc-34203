@@ -1,3 +1,4 @@
+/*Global Margin reset */
 * {
 	margin: 0px;
 	padding: 0px;
@@ -8,7 +9,8 @@ body {
 	background-color: #171717;
 	font-size: 16px;
 	line-height: 1.5em;
-	background-image url
+	background-image: url(../img/bg.title.jpg);
+	background-repeat:repeat-x;
 }
 #container {
 	max-width: 800px;
@@ -20,6 +22,9 @@ body {
 	border: 1px solid #CCC;
 }
 #header {
+	background-image: ;
+	background-repeat:reapet-x;
+
 }
 #header h1 a {
 }
@@ -70,3 +75,7 @@ body {
 	line-height: 25px;
 	margin-right: 20px;
 	margin-left: 20px;
+}
+a.alret{
+background
+}

@@ -6,12 +6,13 @@
 body {
 	text-align: center;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	background-color: #171717;
+	background-color: #ffffff;
 	font-size: 16px;
 	line-height: 1.5em;
-	background-image: url(../img/bg.title.jpg);
+	background-image: url(../img/bg-tile.jpg);
 	background-repeat:repeat-x;
 }
+
 #container {
 	max-width: 800px;
 	margin-right: auto;
@@ -22,14 +23,20 @@ body {
 	border: 1px solid #CCC;
 }
 #header {
-	background-image: ;
-	background-repeat:reapet-x;
-
+	background-image: url(../img/Pic\ of\ circle.webp);
+background-repeat:repeat-x;
+height: 140px;;
+	
 }
 #header h1 a {
+	display:blcok;
+	height:140px;
+	text-indent:100%;
+	white-space: nowrap;
+	overflow: hidden; 
 }
 #nav {
-	background-color: #000;
+	background-color: #000000;
 }
 #nav ul {
 	list-style-type: none;
@@ -76,6 +83,6 @@ body {
 	margin-right: 20px;
 	margin-left: 20px;
 }
-a.alret{
-background
-}
+	alret{
+		background:purple;
+	}
